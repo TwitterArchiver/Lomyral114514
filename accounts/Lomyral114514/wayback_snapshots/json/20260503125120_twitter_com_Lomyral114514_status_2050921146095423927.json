@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2050919904531083381",
+    "created_at": "2026-05-03T12:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T13:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050921146095423927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916113741328093187",
+          "start": 0,
+          "username": "0nemoresec"
+        },
+        {
+          "end": 27,
+          "id": "2044073101961412609",
+          "start": 12,
+          "username": "crow_kill_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050921146095423927",
+    "in_reply_to_user_id": "2050073911635894272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050921097139552523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0nemoresec @crow_kill_snow 我就说吧("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2050919904531083381",
+        "created_at": "2026-05-03T12:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050921146095423927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916113741328093187",
+              "start": 0,
+              "username": "0nemoresec"
+            },
+            {
+              "end": 27,
+              "id": "2044073101961412609",
+              "start": 12,
+              "username": "crow_kill_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050921146095423927",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050921097139552523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0nemoresec @crow_kill_snow 我就说吧("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2050919904531083381",
+        "created_at": "2026-05-03T12:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050921097139552523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916113741328093187",
+              "start": 0,
+              "username": "0nemoresec"
+            },
+            {
+              "end": 89,
+              "id": "2044073101961412609",
+              "start": 74,
+              "username": "crow_kill_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050921097139552523",
+        "in_reply_to_user_id": "1916113741328093187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050920424306008230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0nemoresec 这条贴是独立于我转的那一条的，我没在这里圈过他，所以后续回复时也不会圈上他，，，我现在圈一下他，后续的回复他就都能收到通知了@crow_kill_snow"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。不贩卖任何东西。这里是三号机，互关寻回中",
+        "id": "2050073911635894272",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 266,
+          "like_count": 529,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 200
+        },
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T12:54:58.000Z",
+        "description": "尸体",
+        "id": "1916113741328093187",
+        "location": "空白",
+        "name": "000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044484700941783042/KoMKlK18_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 70,
+          "like_count": 1267,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 424
+        },
+        "username": "0nemoresec",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T15:25:24.000Z",
+        "description": "你的名字是一枚雪\n落在无人认领的墓碑上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Peckylarding",
+                "end": 23,
+                "expanded_url": "http://t.me/Peckylarding",
+                "start": 0,
+                "url": "https://t.co/D0VrWOdaPF"
+              }
+            ]
+          }
+        },
+        "id": "2044073101961412609",
+        "name": "鸦葬雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044288804094390274/S4DRM1oY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 126,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/D0VrWOdaPF",
+        "username": "crow_kill_snow",
+        "verified": false
+      }
+    ]
+  }
+}

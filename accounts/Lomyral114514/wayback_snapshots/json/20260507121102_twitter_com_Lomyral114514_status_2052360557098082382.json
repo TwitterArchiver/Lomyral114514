@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2052348873792975126",
+    "created_at": "2026-05-07T12:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T13:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052360557098082382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2052101329250873344",
+          "start": 0,
+          "username": "8964_R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052360557098082382",
+    "in_reply_to_user_id": "2052101329250873344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052348873792975126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_R 他账号暂时封号了()我问了他说可以把他微信给你，你们微信聊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2052348873792975126",
+        "created_at": "2026-05-07T12:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052360557098082382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2052101329250873344",
+              "start": 0,
+              "username": "8964_R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052360557098082382",
+        "in_reply_to_user_id": "2052101329250873344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052348873792975126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_R 他账号暂时封号了()我问了他说可以把他微信给你，你们微信聊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052101329250873344",
+        "conversation_id": "2052348873792975126",
+        "created_at": "2026-05-07T11:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052348873792975126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052348873792975126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁知道怎么联系到12啊，我要买烟😭我给他留言他也不看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KM",
+              "full_name": "Comoros",
+              "geo": {
+                "coordinates": [
+                  44.44553,
+                  -12.23333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 354,
+          "like_count": 1455,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 442
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T19:01:07.000Z",
+        "description": "※只是旅行者罢了，把我说过的一切都当做梦呓吧※\n※无性别者※\n※对象@sunset__3000※\n※美工很好有需要可以找她※\n※#odtwt※\n※#shtwt※\n※TG:HsHnFR※\n※我始终如一※\n永远纪念@Inks_chain @Chain_Inks",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "odtwt"
+              },
+              {
+                "end": 79,
+                "start": 73,
+                "tag": "shtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "sunset__3000"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "Inks_chain"
+              },
+              {
+                "end": 128,
+                "start": 117,
+                "username": "Chain_Inks"
+              }
+            ]
+          }
+        },
+        "id": "2052101329250873344",
+        "name": "ヰ世界优泠#参宿七",
+        "pinned_tweet_id": "2052103144528855350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052101413816483840/wqSySJnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 15,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 64
+        },
+        "username": "8964_R",
+        "verified": false
+      }
+    ]
+  }
+}

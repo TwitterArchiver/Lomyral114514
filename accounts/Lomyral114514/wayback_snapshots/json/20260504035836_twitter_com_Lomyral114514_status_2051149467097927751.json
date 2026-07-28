@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2051149467097927751",
+    "created_at": "2026-05-04T03:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T04:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051149467097927751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1638959586140098560",
+          "start": 3,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051149467097927751",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051114979709927443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiuyouforwhite: 我爱你们，永远永远，我要誓死保护每一位支持我的同学，大家不要在我的群里违规好吗，我是个果决的人，对于伤害我的同学们的人零容忍，我不会让大家被晶被骗被利用，我要开启十七文革，现在早自习100人，晚自习200人，但凡有可疑人员/严重违规人员,…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2051149467097927751",
+        "created_at": "2026-05-04T03:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051149467097927751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1638959586140098560",
+              "start": 3,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051149467097927751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051114979709927443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiuyouforwhite: 我爱你们，永远永远，我要誓死保护每一位支持我的同学，大家不要在我的群里违规好吗，我是个果决的人，对于伤害我的同学们的人零容忍，我不会让大家被晶被骗被利用，我要开启十七文革，现在早自习100人，晚自习200人，但凡有可疑人员/严重违规人员,…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638959586140098560",
+        "conversation_id": "2051114979709927443",
+        "created_at": "2026-05-04T01:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T02:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051114979709927443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051114979709927443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 573,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我爱你们，永远永远，我要誓死保护每一位支持我的同学，大家不要在我的群里违规好吗，我是个果决的人，对于伤害我的同学们的人零容忍，我不会让大家被晶被骗被利用，我要开启十七文革，现在早自习100人，晚自习200人，但凡有可疑人员/严重违规人员,请私信我/Lomyral，举报有奖(证实后百元以上的rc起)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n不吸毒，不贩卖任何东西。\n\n这里是三号机，互关寻回中",
+        "id": "2050073911635894272",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 282,
+          "like_count": 635,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 244
+        },
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/内心探索/药理帮助/碎碎念/哲思/我都回fo(没回私我)",
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 1420,
+          "like_count": 4059,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 2020
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

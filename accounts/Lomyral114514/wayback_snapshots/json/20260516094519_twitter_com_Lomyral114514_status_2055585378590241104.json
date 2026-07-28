@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2055580538136862819",
+    "created_at": "2026-05-16T09:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055585378590241104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2050887586705760256",
+          "start": 0,
+          "username": "hequanjingyin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055585378590241104",
+    "in_reply_to_user_id": "2050887586705760256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055584745950683153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hequanjingyin 兑🤤但是也就是因为这个家里人可能不会同意我出来住，害怕我不安全什么的🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2055580538136862819",
+        "created_at": "2026-05-16T09:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055585378590241104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050887586705760256",
+              "start": 0,
+              "username": "hequanjingyin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055585378590241104",
+        "in_reply_to_user_id": "2050887586705760256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055584745950683153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hequanjingyin 兑🤤但是也就是因为这个家里人可能不会同意我出来住，害怕我不安全什么的🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050887586705760256",
+        "conversation_id": "2055580538136862819",
+        "created_at": "2026-05-16T09:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055584745950683153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055584745950683153",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055582227703173232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 一个人住这个爽啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 800,
+          "following_count": 463,
+          "like_count": 3037,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 946
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-03T10:38:09.000Z",
+        "description": "我看着眼前幸福的日子被我亲手摧毁后开心地闭上了眼\n丨叫我小音 性别认同为猫 全性别友好\n丨OD自残精神病💊💉私信解锁魔法糖果菜单\n丨FOW参与 接受报告投稿和咨询\n丨需要钱治病买药所以重新接🚪和线下\n丨互关请不要抛下我和我私联吧\n匿名提问欢迎来玩咪😼随机掉落镜音小故事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hequanjingyin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hequanjingyin",
+                "start": 0,
+                "url": "https://t.co/kLO9xAbSfR"
+              }
+            ]
+          }
+        },
+        "id": "2050887586705760256",
+        "name": "和泉镜音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051326882294247424/q0SjF9YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 55,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/kLO9xAbSfR",
+        "username": "hequanjingyin",
+        "verified": false
+      }
+    ]
+  }
+}

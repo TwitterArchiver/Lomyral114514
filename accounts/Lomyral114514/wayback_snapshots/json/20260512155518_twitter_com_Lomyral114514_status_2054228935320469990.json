@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2054228935320469990",
+    "created_at": "2026-05-12T15:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054228935320469990"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054228935320469990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "忠告是请每个阿片使用者守住cd，！\n阿片实在是太美好了，但是戒断也实在是太坐牢了。一周两次已经是底线中的底线了，建议1-2周一次。当然1-2个月一次是最安全的，耐受也几乎不会增长，除非单次上大剂量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2054228935320469990",
+        "created_at": "2026-05-12T15:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054228935320469990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054228935320469990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忠告是请每个阿片使用者守住cd，！\n阿片实在是太美好了，但是戒断也实在是太坐牢了。一周两次已经是底线中的底线了，建议1-2周一次。当然1-2个月一次是最安全的，耐受也几乎不会增长，除非单次上大剂量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KM",
+              "full_name": "Comoros",
+              "geo": {
+                "coordinates": [
+                  44.44553,
+                  -12.23333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626,
+          "following_count": 416,
+          "like_count": 2238,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

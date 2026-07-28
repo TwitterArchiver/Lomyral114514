@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055041049320361984"
+      ],
+      "media_source_tweet_id": [
+        "2055041388283134449"
+      ]
+    },
+    "author_id": "2050073911635894272",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      }
+    ],
+    "conversation_id": "2055153463802450237",
+    "created_at": "2026-05-15T05:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055153463802450237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1745835818831302656",
+          "start": 3,
+          "username": "YnuiRafa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SNsXMwYbNg",
+          "end": 74,
+          "expanded_url": "https://x.com/YnuiRafa/status/2055041388283134449/video/1",
+          "media_key": "13_2055041049320361984",
+          "start": 51,
+          "url": "https://t.co/SNsXMwYbNg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055153463802450237",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055041388283134449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YnuiRafa: Gory eyes~~\n\nmade using Live2d &lt;3 https://t.co/SNsXMwYbNg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40333,
+        "height": 720,
+        "media_key": "13_2055041049320361984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055041049320361984/img/mIIKSCX5aN8h1znD.jpg",
+        "public_metrics": {
+          "view_count": 10950
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055041049320361984/vid/avc1/480x270/mB8rSxRaXmK9llGR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055041049320361984/vid/avc1/640x360/bmdWsT9V02uStqVR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055041049320361984/vid/avc1/1280x720/0SP_ufqYwCc2QV60.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055041049320361984/pl/zVkfLXtA4nntATIc.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055041049320361984"
+          ],
+          "media_source_tweet_id": [
+            "2055041388283134449"
+          ]
+        },
+        "author_id": "2050073911635894272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2055153463802450237",
+        "created_at": "2026-05-15T05:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055153463802450237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745835818831302656",
+              "start": 3,
+              "username": "YnuiRafa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNsXMwYbNg",
+              "end": 74,
+              "expanded_url": "https://x.com/YnuiRafa/status/2055041388283134449/video/1",
+              "media_key": "13_2055041049320361984",
+              "start": 51,
+              "url": "https://t.co/SNsXMwYbNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055153463802450237",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055041388283134449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YnuiRafa: Gory eyes~~\n\nmade using Live2d &lt;3 https://t.co/SNsXMwYbNg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055041049320361984"
+          ]
+        },
+        "author_id": "1745835818831302656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2055041388283134449",
+        "created_at": "2026-05-14T21:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T22:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055041388283134449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNsXMwYbNg",
+              "end": 60,
+              "expanded_url": "https://x.com/YnuiRafa/status/2055041388283134449/video/1",
+              "media_key": "13_2055041049320361984",
+              "start": 37,
+              "url": "https://t.co/SNsXMwYbNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055041388283134449",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 22261,
+          "like_count": 1461,
+          "quote_count": 5,
+          "reply_count": 20,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "Gory eyes~~\n\nmade using Live2d &lt;3 https://t.co/SNsXMwYbNg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 454,
+          "like_count": 2650,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T15:51:57.000Z",
+        "description": "i'm cosmical vtuber dragon and i do vtubers \n\nhttps://t.co/22kJ7FyebS\n\n🏳️‍🌈(DM on vgen or discord, twitter may flag your dms as spam!)\n\nbanner: @meybo_png",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 144,
+                "username": "meybo_png"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vgen.co/RafaYnui",
+                "end": 69,
+                "expanded_url": "https://vgen.co/RafaYnui",
+                "start": 46,
+                "url": "https://t.co/22kJ7FyebS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ynuirafa.carrd.co",
+                "end": 23,
+                "expanded_url": "https://ynuirafa.carrd.co",
+                "start": 0,
+                "url": "https://t.co/HCr6CVaz4X"
+              }
+            ]
+          }
+        },
+        "id": "1745835818831302656",
+        "location": "Brazil",
+        "name": "RafaYnui L2D artist and rigger (VGEN)",
+        "pinned_tweet_id": "2039453299942859208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801824238581506048/TOstzQlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 997,
+          "like_count": 30590,
+          "listed_count": 7,
+          "media_count": 1823,
+          "tweet_count": 7147
+        },
+        "url": "https://t.co/HCr6CVaz4X",
+        "username": "YnuiRafa",
+        "verified": true
+      }
+    ]
+  }
+}

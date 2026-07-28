@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2058097770503012477",
+    "created_at": "2026-05-23T09:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058121251517038763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2055124207609184256",
+          "start": 0,
+          "username": "duogyoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058121251517038763",
+    "in_reply_to_user_id": "2055124207609184256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058114814329926130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duogyoo 依然AAAp-chan动图批发"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 186,
+        "media_key": "16_2058114804561379328",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HI_kgqjagAAlWv7.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HI_kgqjagAAlWv7.mp4"
+          }
+        ],
+        "width": 164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2058097770503012477",
+        "created_at": "2026-05-23T09:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058121251517038763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2055124207609184256",
+              "start": 0,
+              "username": "duogyoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058121251517038763",
+        "in_reply_to_user_id": "2055124207609184256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058114814329926130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duogyoo 依然AAAp-chan动图批发"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2058114804561379328"
+          ]
+        },
+        "author_id": "2055124207609184256",
+        "conversation_id": "2058097770503012477",
+        "created_at": "2026-05-23T09:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058114814329926130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bBSrA82i3L",
+              "end": 48,
+              "expanded_url": "https://x.com/duogyoo/status/2058114814329926130/photo/1",
+              "media_key": "16_2058114804561379328",
+              "start": 25,
+              "url": "https://t.co/bBSrA82i3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058114814329926130",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058097770503012477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 那就发pchan吧 https://t.co/bBSrA82i3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KM",
+              "full_name": "Comoros",
+              "geo": {
+                "coordinates": [
+                  44.44553,
+                  -12.23333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 500,
+          "like_count": 3769,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 1167
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T03:13:30.000Z",
+        "description": "",
+        "id": "2055124207609184256",
+        "name": "Duogyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055201100563918848/tjsnrJSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 5,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "duogyoo",
+        "verified": false
+      }
+    ]
+  }
+}

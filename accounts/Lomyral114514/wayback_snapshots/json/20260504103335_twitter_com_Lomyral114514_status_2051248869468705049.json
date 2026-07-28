@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2051233668493099217",
+    "created_at": "2026-05-04T10:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T11:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051248869468705049"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051248869468705049",
+    "in_reply_to_user_id": "2050073911635894272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051233668493099217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "抽奖中奖我都把奖金和奖品拒掉了，目前还没有遇到过和商贩的交易纠纷所以也没收到过退款啥的()因此真的是字面意义上的一分钱都没收过，！只有我给推友打钱的份🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2051233668493099217",
+        "created_at": "2026-05-04T10:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T11:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051248869468705049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051248869468705049",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051233668493099217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抽奖中奖我都把奖金和奖品拒掉了，目前还没有遇到过和商贩的交易纠纷所以也没收到过退款啥的()因此真的是字面意义上的一分钱都没收过，！只有我给推友打钱的份🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2051233668493099217",
+        "created_at": "2026-05-04T09:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051233668493099217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lomyral114514/…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/Lomyral114514/status/2051229767509373409",
+              "start": 86,
+              "url": "https://t.co/ZhGGeo5qa5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051233668493099217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051229767509373409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再次重申我不贩卖任何东西，本账号完全出于非盈利目的创建，没有收过任何一位推友一分钱，过去、现在以及未来都是如此。或许可以视情况指路，但请不要以暗示/明示的方式向我求购任何 https://t.co/ZhGGeo5qa5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n不吸毒，不贩卖任何东西。\n\n这里是三号机，互关寻回中",
+        "id": "2050073911635894272",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 296,
+          "like_count": 735,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 279
+        },
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

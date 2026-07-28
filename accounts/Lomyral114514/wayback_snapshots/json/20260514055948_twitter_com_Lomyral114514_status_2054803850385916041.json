@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054802219015532544",
+        "3_2054802218654846977"
+      ]
+    },
+    "author_id": "2050073911635894272",
+    "conversation_id": "2054803850385916041",
+    "created_at": "2026-05-14T05:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054803850385916041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JP6K4c1EcA",
+          "end": 174,
+          "expanded_url": "https://x.com/Lomyral114514/status/2054803850385916041/photo/1",
+          "media_key": "3_2054802219015532544",
+          "start": 151,
+          "url": "https://t.co/JP6K4c1EcA"
+        },
+        {
+          "display_url": "pic.x.com/JP6K4c1EcA",
+          "end": 174,
+          "expanded_url": "https://x.com/Lomyral114514/status/2054803850385916041/photo/1",
+          "media_key": "3_2054802218654846977",
+          "start": 151,
+          "url": "https://t.co/JP6K4c1EcA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054803850385916041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "p1 市面上最常见两种规格，一种100mg/t，另一种300mg/t。顺便剂量这种东西药品包装上都会写的\np2 我不太想推荐这些……因为如果有人看了我的推荐买了药结果剧烈bad，我会很有罪恶感😢因为市面上几乎没有便宜易得、娱乐价值高还安全的合法药物流通了，如果你能接受相对高价/高危/弱效的话再来问吧 https://t.co/JP6K4c1EcA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 754,
+        "media_key": "3_2054802219015532544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQfuzwa8AA_IpS.jpg",
+        "width": 1090
+      },
+      {
+        "height": 756,
+        "media_key": "3_2054802218654846977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQfuyabUAEXyaL.jpg",
+        "width": 1103
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054802219015532544",
+            "3_2054802218654846977"
+          ]
+        },
+        "author_id": "2050073911635894272",
+        "conversation_id": "2054803850385916041",
+        "created_at": "2026-05-14T05:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054803850385916041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JP6K4c1EcA",
+              "end": 174,
+              "expanded_url": "https://x.com/Lomyral114514/status/2054803850385916041/photo/1",
+              "media_key": "3_2054802219015532544",
+              "start": 151,
+              "url": "https://t.co/JP6K4c1EcA"
+            },
+            {
+              "display_url": "pic.x.com/JP6K4c1EcA",
+              "end": 174,
+              "expanded_url": "https://x.com/Lomyral114514/status/2054803850385916041/photo/1",
+              "media_key": "3_2054802218654846977",
+              "start": 151,
+              "url": "https://t.co/JP6K4c1EcA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054803850385916041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1 市面上最常见两种规格，一种100mg/t，另一种300mg/t。顺便剂量这种东西药品包装上都会写的\np2 我不太想推荐这些……因为如果有人看了我的推荐买了药结果剧烈bad，我会很有罪恶感😢因为市面上几乎没有便宜易得、娱乐价值高还安全的合法药物流通了，如果你能接受相对高价/高危/弱效的话再来问吧 https://t.co/JP6K4c1EcA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KM",
+              "full_name": "Comoros",
+              "geo": {
+                "coordinates": [
+                  44.44553,
+                  -12.23333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 440,
+          "like_count": 2456,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 773
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

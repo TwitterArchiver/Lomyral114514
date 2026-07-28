@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051854068365283328"
+      ]
+    },
+    "author_id": "2050073911635894272",
+    "conversation_id": "2051855865716875601",
+    "created_at": "2026-05-06T02:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T03:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051855865716875601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/um0WAnHlxG",
+          "end": 132,
+          "expanded_url": "https://x.com/Lomyral114514/status/2051855865716875601/photo/1",
+          "media_key": "3_2051854068365283328",
+          "start": 109,
+          "url": "https://t.co/um0WAnHlxG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051855865716875601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是的哦。我从小就对恋爱没什么兴趣。我不关心别人的恋爱八卦，也不想成为这些八卦的主角。\n我更享受超越普通朋友的关系，所以我经常和我非常喜欢的朋友们搞小暧昧()但它并不会指向爱情，我们双方都心知肚明，，，朋友就是朋友哇🥺 https://t.co/um0WAnHlxG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2051854068365283328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHmmZ2vaUAAMHlX.jpg",
+        "width": 1112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051854068365283328"
+          ]
+        },
+        "author_id": "2050073911635894272",
+        "conversation_id": "2051855865716875601",
+        "created_at": "2026-05-06T02:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051855865716875601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/um0WAnHlxG",
+              "end": 132,
+              "expanded_url": "https://x.com/Lomyral114514/status/2051855865716875601/photo/1",
+              "media_key": "3_2051854068365283328",
+              "start": 109,
+              "url": "https://t.co/um0WAnHlxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051855865716875601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的哦。我从小就对恋爱没什么兴趣。我不关心别人的恋爱八卦，也不想成为这些八卦的主角。\n我更享受超越普通朋友的关系，所以我经常和我非常喜欢的朋友们搞小暧昧()但它并不会指向爱情，我们双方都心知肚明，，，朋友就是朋友哇🥺 https://t.co/um0WAnHlxG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KM",
+              "full_name": "Comoros",
+              "geo": {
+                "coordinates": [
+                  44.44553,
+                  -12.23333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 341,
+          "like_count": 1185,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

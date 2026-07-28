@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2050918328567464350",
+    "created_at": "2026-05-03T12:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T13:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050922536037458200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044073101961412609",
+          "start": 0,
+          "username": "crow_kill_snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050922536037458200",
+    "in_reply_to_user_id": "2050073911635894272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050918328567464350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crow_kill_snow 补充一点信息：\n距上次摄入nmdar拮抗剂已经过去了7天。距上次进食已经过去了7h，我现在很饿所以应该是空腹🤤\n\n此贴仅作记录用途，后续会整理更详细的报告"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2050918328567464350",
+        "created_at": "2026-05-03T12:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050922536037458200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044073101961412609",
+              "start": 0,
+              "username": "crow_kill_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050922536037458200",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050918328567464350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crow_kill_snow 补充一点信息：\n距上次摄入nmdar拮抗剂已经过去了7天。距上次进食已经过去了7h，我现在很饿所以应该是空腹🤤\n\n此贴仅作记录用途，后续会整理更详细的报告"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2050918328567464350",
+        "created_at": "2026-05-03T12:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050918328567464350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 50,
+              "id": "2044073101961412609",
+              "start": 35,
+              "username": "crow_kill_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050918328567464350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "20:39\n1t雪尘(25mg 3-MeO-PCPy) \n\n特别致谢：@crow_kill_snow\n\n「本帖及后续回复内容均属虚拟环境下进行的模拟实验，仅供研究参考，不建议任何人在现实中进行模仿。任何物质使用请咨询医师，支持科学减害」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。不贩卖任何东西。这里是三号机，互关寻回中",
+        "id": "2050073911635894272",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 266,
+          "like_count": 536,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 203
+        },
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T15:25:24.000Z",
+        "description": "你的名字是一枚雪\n落在无人认领的墓碑上",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Peckylarding",
+                "end": 23,
+                "expanded_url": "http://t.me/Peckylarding",
+                "start": 0,
+                "url": "https://t.co/D0VrWOdaPF"
+              }
+            ]
+          }
+        },
+        "id": "2044073101961412609",
+        "name": "鸦葬雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044288804094390274/S4DRM1oY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 126,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 21
+        },
+        "url": "https://t.co/D0VrWOdaPF",
+        "username": "crow_kill_snow",
+        "verified": false
+      }
+    ]
+  }
+}

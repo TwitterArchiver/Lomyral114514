@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058813577688125440",
+        "3_2058813576757075968",
+        "3_2058813576870273024",
+        "3_2058813576840945664"
+      ]
+    },
+    "author_id": "2050073911635894272",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058813586747929030",
+    "created_at": "2026-05-25T07:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T08:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058813586747929030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/svKPutV9nr",
+          "end": 178,
+          "expanded_url": "https://x.com/Lomyral114514/status/2058813586747929030/photo/1",
+          "media_key": "3_2058813577688125440",
+          "start": 155,
+          "url": "https://t.co/svKPutV9nr"
+        },
+        {
+          "display_url": "pic.x.com/svKPutV9nr",
+          "end": 178,
+          "expanded_url": "https://x.com/Lomyral114514/status/2058813586747929030/photo/1",
+          "media_key": "3_2058813576757075968",
+          "start": 155,
+          "url": "https://t.co/svKPutV9nr"
+        },
+        {
+          "display_url": "pic.x.com/svKPutV9nr",
+          "end": 178,
+          "expanded_url": "https://x.com/Lomyral114514/status/2058813586747929030/photo/1",
+          "media_key": "3_2058813576870273024",
+          "start": 155,
+          "url": "https://t.co/svKPutV9nr"
+        },
+        {
+          "display_url": "pic.x.com/svKPutV9nr",
+          "end": 178,
+          "expanded_url": "https://x.com/Lomyral114514/status/2058813586747929030/photo/1",
+          "media_key": "3_2058813576840945664",
+          "start": 155,
+          "url": "https://t.co/svKPutV9nr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058813586747929030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "p2 红松本含300mg愈创甘油醚/6t，要吃止吐\np3 跟最近流行的dxm含片差不多，事酚酞dxm，劲比较小而且吃了会剧烈窜稀(\np4 黑松本含曲美酚嗪(β2激动剂)，建议提前准备美托洛尔反制心动过速与高血压\n\n本条仅为提问解答，仅供参考，无任何不良导向，也不涉及任何销售或管制行为。所提及物质皆合法未列管 https://t.co/svKPutV9nr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2058813577688125440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJgCnTaEAAfle0.jpg",
+        "width": 1062
+      },
+      {
+        "height": 286,
+        "media_key": "3_2058813576757075968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJgCj1bYAA9WZB.png",
+        "width": 453
+      },
+      {
+        "height": 550,
+        "media_key": "3_2058813576870273024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJgCkQaoAAixX7.png",
+        "width": 374
+      },
+      {
+        "height": 673,
+        "media_key": "3_2058813576840945664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJgCkJbIAAk_Iw.png",
+        "width": 497
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058813577688125440",
+            "3_2058813576757075968",
+            "3_2058813576870273024",
+            "3_2058813576840945664"
+          ]
+        },
+        "author_id": "2050073911635894272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058813586747929030",
+        "created_at": "2026-05-25T07:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058813586747929030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/svKPutV9nr",
+              "end": 178,
+              "expanded_url": "https://x.com/Lomyral114514/status/2058813586747929030/photo/1",
+              "media_key": "3_2058813577688125440",
+              "start": 155,
+              "url": "https://t.co/svKPutV9nr"
+            },
+            {
+              "display_url": "pic.x.com/svKPutV9nr",
+              "end": 178,
+              "expanded_url": "https://x.com/Lomyral114514/status/2058813586747929030/photo/1",
+              "media_key": "3_2058813576757075968",
+              "start": 155,
+              "url": "https://t.co/svKPutV9nr"
+            },
+            {
+              "display_url": "pic.x.com/svKPutV9nr",
+              "end": 178,
+              "expanded_url": "https://x.com/Lomyral114514/status/2058813586747929030/photo/1",
+              "media_key": "3_2058813576870273024",
+              "start": 155,
+              "url": "https://t.co/svKPutV9nr"
+            },
+            {
+              "display_url": "pic.x.com/svKPutV9nr",
+              "end": 178,
+              "expanded_url": "https://x.com/Lomyral114514/status/2058813586747929030/photo/1",
+              "media_key": "3_2058813576840945664",
+              "start": 155,
+              "url": "https://t.co/svKPutV9nr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058813586747929030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p2 红松本含300mg愈创甘油醚/6t，要吃止吐\np3 跟最近流行的dxm含片差不多，事酚酞dxm，劲比较小而且吃了会剧烈窜稀(\np4 黑松本含曲美酚嗪(β2激动剂)，建议提前准备美托洛尔反制心动过速与高血压\n\n本条仅为提问解答，仅供参考，无任何不良导向，也不涉及任何销售或管制行为。所提及物质皆合法未列管 https://t.co/svKPutV9nr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 516,
+          "like_count": 4118,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1265
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

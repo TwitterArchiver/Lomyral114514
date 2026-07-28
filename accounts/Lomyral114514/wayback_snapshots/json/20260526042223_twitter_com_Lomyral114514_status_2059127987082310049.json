@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057583287594541056"
+      ],
+      "media_source_tweet_id": [
+        "2057583301364453518"
+      ]
+    },
+    "author_id": "2050073911635894272",
+    "conversation_id": "2059127987082310049",
+    "created_at": "2026-05-26T04:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T05:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059127987082310049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047900485324324865",
+          "start": 3,
+          "username": "naiiiiiii_77"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UzeKp4fSLC",
+          "end": 57,
+          "expanded_url": "https://x.com/naiiiiiii_77/status/2057583301364453518/photo/1",
+          "media_key": "3_2057583287594541056",
+          "start": 34,
+          "url": "https://t.co/UzeKp4fSLC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059127987082310049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057583301364453518",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @naiiiiiii_77: 你牛逼 我大号又被封了宝宝们🥹 https://t.co/UzeKp4fSLC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057583287594541056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI4BGTjaYAA9fyB.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057583287594541056"
+          ],
+          "media_source_tweet_id": [
+            "2057583301364453518"
+          ]
+        },
+        "author_id": "2050073911635894272",
+        "conversation_id": "2059127987082310049",
+        "created_at": "2026-05-26T04:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T05:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059127987082310049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047900485324324865",
+              "start": 3,
+              "username": "naiiiiiii_77"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UzeKp4fSLC",
+              "end": 57,
+              "expanded_url": "https://x.com/naiiiiiii_77/status/2057583301364453518/photo/1",
+              "media_key": "3_2057583287594541056",
+              "start": 34,
+              "url": "https://t.co/UzeKp4fSLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059127987082310049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057583301364453518",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @naiiiiiii_77: 你牛逼 我大号又被封了宝宝们🥹 https://t.co/UzeKp4fSLC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057583287594541056"
+          ]
+        },
+        "author_id": "2047900485324324865",
+        "conversation_id": "2057583301364453518",
+        "created_at": "2026-05-21T22:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T23:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057583301364453518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UzeKp4fSLC",
+              "end": 39,
+              "expanded_url": "https://x.com/naiiiiiii_77/status/2057583301364453518/photo/1",
+              "media_key": "3_2057583287594541056",
+              "start": 16,
+              "url": "https://t.co/UzeKp4fSLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057583301364453518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你牛逼 我大号又被封了宝宝们🥹 https://t.co/UzeKp4fSLC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KM",
+              "full_name": "Comoros",
+              "geo": {
+                "coordinates": [
+                  44.44553,
+                  -12.23333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 526,
+          "like_count": 4284,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1317
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T04:50:10.000Z",
+        "description": "msk你别得瑟\n大号被封7天@Nana_naiiiiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 14,
+                "username": "Nana_naiiiiiii"
+              }
+            ]
+          }
+        },
+        "id": "2047900485324324865",
+        "name": "Naiiiiiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047901274579030016/GuOfRlAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 40,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 19
+        },
+        "username": "naiiiiiii_77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058799188637614080",
+        "3_2058799188671098881",
+        "3_2058799188914356224"
+      ]
+    },
+    "author_id": "2050073911635894272",
+    "conversation_id": "2058800228841726342",
+    "created_at": "2026-05-25T06:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T07:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058800228841726342"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VZepl79SEM",
+          "end": 144,
+          "expanded_url": "https://x.com/Lomyral114514/status/2058800228841726342/photo/1",
+          "media_key": "3_2058799188637614080",
+          "start": 121,
+          "url": "https://t.co/VZepl79SEM"
+        },
+        {
+          "display_url": "pic.x.com/VZepl79SEM",
+          "end": 144,
+          "expanded_url": "https://x.com/Lomyral114514/status/2058800228841726342/photo/1",
+          "media_key": "3_2058799188671098881",
+          "start": 121,
+          "url": "https://t.co/VZepl79SEM"
+        },
+        {
+          "display_url": "pic.x.com/VZepl79SEM",
+          "end": 144,
+          "expanded_url": "https://x.com/Lomyral114514/status/2058800228841726342/photo/1",
+          "media_key": "3_2058799188914356224",
+          "start": 121,
+          "url": "https://t.co/VZepl79SEM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058800228841726342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又来还债，，，\n\np1 阿片🤤\np2 900-1500mg\np3 盐野义，白兔，加巴喷丁，美金刚，复方甘草溶液，美洛加巴林，噻萘普汀，强力枇杷露，暂时先不推谵妄剂了。顺便我觉得哮喘片真的很垃圾我没开玩笑，对呕吐和反胃情有独钟的可以吃这个👁️ https://t.co/VZepl79SEM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2058799188637614080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJS9D6bgAANu49.jpg",
+        "width": 1079
+      },
+      {
+        "height": 744,
+        "media_key": "3_2058799188671098881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJS9ECacAEkexe.jpg",
+        "width": 1084
+      },
+      {
+        "height": 750,
+        "media_key": "3_2058799188914356224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJS9E8aQAAjRgS.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058799188637614080",
+            "3_2058799188671098881",
+            "3_2058799188914356224"
+          ]
+        },
+        "author_id": "2050073911635894272",
+        "conversation_id": "2058800228841726342",
+        "created_at": "2026-05-25T06:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T07:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058800228841726342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VZepl79SEM",
+              "end": 144,
+              "expanded_url": "https://x.com/Lomyral114514/status/2058800228841726342/photo/1",
+              "media_key": "3_2058799188637614080",
+              "start": 121,
+              "url": "https://t.co/VZepl79SEM"
+            },
+            {
+              "display_url": "pic.x.com/VZepl79SEM",
+              "end": 144,
+              "expanded_url": "https://x.com/Lomyral114514/status/2058800228841726342/photo/1",
+              "media_key": "3_2058799188671098881",
+              "start": 121,
+              "url": "https://t.co/VZepl79SEM"
+            },
+            {
+              "display_url": "pic.x.com/VZepl79SEM",
+              "end": 144,
+              "expanded_url": "https://x.com/Lomyral114514/status/2058800228841726342/photo/1",
+              "media_key": "3_2058799188914356224",
+              "start": 121,
+              "url": "https://t.co/VZepl79SEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058800228841726342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又来还债，，，\n\np1 阿片🤤\np2 900-1500mg\np3 盐野义，白兔，加巴喷丁，美金刚，复方甘草溶液，美洛加巴林，噻萘普汀，强力枇杷露，暂时先不推谵妄剂了。顺便我觉得哮喘片真的很垃圾我没开玩笑，对呕吐和反胃情有独钟的可以吃这个👁️ https://t.co/VZepl79SEM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KM",
+              "full_name": "Comoros",
+              "geo": {
+                "coordinates": [
+                  44.44553,
+                  -12.23333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 516,
+          "like_count": 4112,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 1260
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

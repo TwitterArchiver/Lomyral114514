@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2050962324421579186",
+    "created_at": "2026-05-03T15:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T16:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050963312263954628"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050963312263954628",
+    "in_reply_to_user_id": "2050073911635894272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050962324421579186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "熟悉的pe飙升的感觉，主播体质对pe敏感来着。量量血压再决定要不要吃可乐定"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050962245195329536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZ7S6ia8AALRij.jpg",
+        "width": 1134
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2050962324421579186",
+        "created_at": "2026-05-03T15:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050963312263954628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050963312263954628",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050962324421579186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "熟悉的pe飙升的感觉，主播体质对pe敏感来着。量量血压再决定要不要吃可乐定"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050962245195329536"
+          ]
+        },
+        "author_id": "2050073911635894272",
+        "conversation_id": "2050962324421579186",
+        "created_at": "2026-05-03T15:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T16:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050962324421579186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRTRHZBm9i",
+              "end": 66,
+              "expanded_url": "https://x.com/Lomyral114514/status/2050962324421579186/photo/1",
+              "media_key": "3_2050962245195329536",
+              "start": 43,
+              "url": "https://t.co/xRTRHZBm9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050962324421579186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无人在意的角落这只猫又被限制操作了一次💔展示一下部分记录！严肃考虑要不要吃点甘草片🤤 https://t.co/xRTRHZBm9i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。不贩卖任何东西。这里是三号机，互关寻回中",
+        "id": "2050073911635894272",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 267,
+          "like_count": 550,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 220
+        },
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

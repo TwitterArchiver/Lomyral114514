@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058809134037008384",
+        "3_2058809667653099521",
+        "3_2058809667946782720"
+      ]
+    },
+    "author_id": "2050073911635894272",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058810345813315748",
+    "created_at": "2026-05-25T07:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T08:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058810345813315748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WeeiYHwiBC",
+          "end": 171,
+          "expanded_url": "https://x.com/Lomyral114514/status/2058810345813315748/photo/1",
+          "media_key": "3_2058809134037008384",
+          "start": 148,
+          "url": "https://t.co/WeeiYHwiBC"
+        },
+        {
+          "display_url": "pic.x.com/WeeiYHwiBC",
+          "end": 171,
+          "expanded_url": "https://x.com/Lomyral114514/status/2058810345813315748/photo/1",
+          "media_key": "3_2058809667653099521",
+          "start": 148,
+          "url": "https://t.co/WeeiYHwiBC"
+        },
+        {
+          "display_url": "pic.x.com/WeeiYHwiBC",
+          "end": 171,
+          "expanded_url": "https://x.com/Lomyral114514/status/2058810345813315748/photo/1",
+          "media_key": "3_2058809667946782720",
+          "start": 148,
+          "url": "https://t.co/WeeiYHwiBC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058810345813315748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "实际上我认为结晶化的推特账号从一开始就由鸡哥运营，，，只是稍微装一下显得他们像两个人。反正凌驾本来也没什么好名声，当然也不怕鸡哥给他抹得更黑了。\n顺便结晶化本来就是药商，不论是搞wiki、炒作引流、宣称love n peace还是制造恐慌、拉踩同行，其最终目的都是带货卖rc爆米，我是这样认为的 https://t.co/WeeiYHwiBC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 753,
+        "media_key": "3_2058809134037008384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJb_9abAAA2Lba.jpg",
+        "width": 1101
+      },
+      {
+        "height": 394,
+        "media_key": "3_2058809667653099521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJcfBSaYAE4k3K.jpg",
+        "width": 1080
+      },
+      {
+        "height": 731,
+        "media_key": "3_2058809667946782720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJJcfCYboAAsZGZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058809134037008384",
+            "3_2058809667653099521",
+            "3_2058809667946782720"
+          ]
+        },
+        "author_id": "2050073911635894272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058810345813315748",
+        "created_at": "2026-05-25T07:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058810345813315748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WeeiYHwiBC",
+              "end": 171,
+              "expanded_url": "https://x.com/Lomyral114514/status/2058810345813315748/photo/1",
+              "media_key": "3_2058809134037008384",
+              "start": 148,
+              "url": "https://t.co/WeeiYHwiBC"
+            },
+            {
+              "display_url": "pic.x.com/WeeiYHwiBC",
+              "end": 171,
+              "expanded_url": "https://x.com/Lomyral114514/status/2058810345813315748/photo/1",
+              "media_key": "3_2058809667653099521",
+              "start": 148,
+              "url": "https://t.co/WeeiYHwiBC"
+            },
+            {
+              "display_url": "pic.x.com/WeeiYHwiBC",
+              "end": 171,
+              "expanded_url": "https://x.com/Lomyral114514/status/2058810345813315748/photo/1",
+              "media_key": "3_2058809667946782720",
+              "start": 148,
+              "url": "https://t.co/WeeiYHwiBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058810345813315748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实际上我认为结晶化的推特账号从一开始就由鸡哥运营，，，只是稍微装一下显得他们像两个人。反正凌驾本来也没什么好名声，当然也不怕鸡哥给他抹得更黑了。\n顺便结晶化本来就是药商，不论是搞wiki、炒作引流、宣称love n peace还是制造恐慌、拉踩同行，其最终目的都是带货卖rc爆米，我是这样认为的 https://t.co/WeeiYHwiBC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KM",
+              "full_name": "Comoros",
+              "geo": {
+                "coordinates": [
+                  44.44553,
+                  -12.23333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 516,
+          "like_count": 4117,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1264
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

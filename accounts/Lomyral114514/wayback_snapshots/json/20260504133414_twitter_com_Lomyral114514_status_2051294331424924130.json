@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2051294331424924130",
+    "created_at": "2026-05-04T13:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T14:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051294331424924130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gdioiui/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/gdioiui/status/2051237013739782427",
+          "start": 8,
+          "url": "https://t.co/lHtrzcpQvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051294331424924130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051237013739782427",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊对的对的对的 https://t.co/lHtrzcpQvv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2051237007322476545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHd1MLOXcAEcVI0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2051294331424924130",
+        "created_at": "2026-05-04T13:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T14:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051294331424924130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/gdioiui/status/2051237013739782427",
+              "start": 8,
+              "url": "https://t.co/lHtrzcpQvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051294331424924130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051237013739782427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊对的对的对的 https://t.co/lHtrzcpQvv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051237007322476545"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2051237013739782427",
+        "created_at": "2026-05-04T09:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051237013739782427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q6V6G0H7s3",
+              "end": 34,
+              "expanded_url": "https://x.com/gdioiui/status/2051237013739782427/photo/1",
+              "media_key": "3_2051237007322476545",
+              "start": 11,
+              "url": "https://t.co/Q6V6G0H7s3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051237013739782427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 625,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "？？？ 怎么看都不对 https://t.co/Q6V6G0H7s3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n不吸毒，不贩卖任何东西。\n\n这里是三号机，互关寻回中",
+        "id": "2050073911635894272",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 302,
+          "like_count": 813,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 308
+        },
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "高二在校生小猫咪\n球球理理窝吧...\n炸柜3.11\nod戒断ing，hrt自25.8.28\n梓厨+发癫达人\n酒精﹤od﹤吸嗨﹤抱抱\n不定期拍好看的？\n超可聊天，加qq\n172/60kg（胖胖ing）\nRIP26.12.3",
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "1999757637697831383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 418,
+          "like_count": 3682,
+          "listed_count": 3,
+          "media_count": 1174,
+          "tweet_count": 6373
+        },
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

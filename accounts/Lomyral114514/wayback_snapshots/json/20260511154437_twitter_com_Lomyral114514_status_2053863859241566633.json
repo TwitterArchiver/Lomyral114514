@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053018293179490305"
+      ],
+      "media_source_tweet_id": [
+        "2053558189082157109"
+      ]
+    },
+    "author_id": "2050073911635894272",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053863859241566633",
+    "created_at": "2026-05-11T15:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T16:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053863859241566633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1605230972588462081",
+          "start": 3,
+          "username": "shitpost_2077"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3k5LfVMadY",
+          "end": 42,
+          "expanded_url": "https://x.com/shitpost_2077/status/2053558189082157109/video/1",
+          "media_key": "13_2053018293179490305",
+          "start": 19,
+          "url": "https://t.co/3k5LfVMadY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053863859241566633",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 586
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053558189082157109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shitpost_2077: https://t.co/3k5LfVMadY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23568,
+        "height": 1280,
+        "media_key": "13_2053018293179490305",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053018293179490305/img/8fXOJp7DW2pQKopl.jpg",
+        "public_metrics": {
+          "view_count": 782004
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053018293179490305/vid/avc1/320x568/g52usKRnJxQS8kEg.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053018293179490305/vid/avc1/480x852/TApXW5iVobljec_E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053018293179490305/vid/avc1/720x1280/CuMGGJZh0LzvZFhw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053018293179490305/pl/kT8uR2T0wq6V6TmO.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053018293179490305"
+          ],
+          "media_source_tweet_id": [
+            "2053558189082157109"
+          ]
+        },
+        "author_id": "2050073911635894272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053863859241566633",
+        "created_at": "2026-05-11T15:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053863859241566633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1605230972588462081",
+              "start": 3,
+              "username": "shitpost_2077"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3k5LfVMadY",
+              "end": 42,
+              "expanded_url": "https://x.com/shitpost_2077/status/2053558189082157109/video/1",
+              "media_key": "13_2053018293179490305",
+              "start": 19,
+              "url": "https://t.co/3k5LfVMadY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053863859241566633",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 586
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053558189082157109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shitpost_2077: https://t.co/3k5LfVMadY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053018293179490305"
+          ]
+        },
+        "author_id": "1605230972588462081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053558189082157109",
+        "created_at": "2026-05-10T19:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T20:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053558189082157109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3k5LfVMadY",
+              "end": 23,
+              "expanded_url": "https://x.com/shitpost_2077/status/2053558189082157109/video/1",
+              "media_key": "13_2053018293179490305",
+              "start": 0,
+              "url": "https://t.co/3k5LfVMadY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053558189082157109",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1361,
+          "impression_count": 1883015,
+          "like_count": 13228,
+          "quote_count": 39,
+          "reply_count": 86,
+          "retweet_count": 586
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3k5LfVMadY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KM",
+              "full_name": "Comoros",
+              "geo": {
+                "coordinates": [
+                  44.44553,
+                  -12.23333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 394,
+          "like_count": 1965,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 603
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T15:57:54.000Z",
+        "description": "shitpost post until 2077 | owner @Necati_coskun_ \n| Dm for credit and removals | NO PROMOS/ADS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 33,
+                "username": "Necati_coskun_"
+              }
+            ]
+          }
+        },
+        "id": "1605230972588462081",
+        "name": "Shitpost 2077",
+        "pinned_tweet_id": "2048423408069705826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953150348660477952/YWRfUlGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 962465,
+          "following_count": 134,
+          "like_count": 10169,
+          "listed_count": 1341,
+          "media_count": 2018,
+          "tweet_count": 2062
+        },
+        "username": "shitpost_2077",
+        "verified": true
+      }
+    ]
+  }
+}

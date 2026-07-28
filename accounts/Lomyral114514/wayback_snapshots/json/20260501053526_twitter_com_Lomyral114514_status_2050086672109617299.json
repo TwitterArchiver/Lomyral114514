@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050086634444771328"
+      ]
+    },
+    "author_id": "2050073911635894272",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2050086672109617299",
+    "created_at": "2026-05-01T05:35:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T06:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050086672109617299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Dw2Rh5ypeo",
+          "end": 33,
+          "expanded_url": "https://x.com/Lomyral114514/status/2050086672109617299/photo/1",
+          "media_key": "3_2050086634444771328",
+          "start": 10,
+          "url": "https://t.co/Dw2Rh5ypeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050086672109617299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "祝大家身体健康ww https://t.co/Dw2Rh5ypeo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 503,
+        "media_key": "3_2050086634444771328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHNe7qTbUAA4-II.jpg",
+        "width": 1172
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050086634444771328"
+          ]
+        },
+        "author_id": "2050073911635894272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2050086672109617299",
+        "created_at": "2026-05-01T05:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050086672109617299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Dw2Rh5ypeo",
+              "end": 33,
+              "expanded_url": "https://x.com/Lomyral114514/status/2050086672109617299/photo/1",
+              "media_key": "3_2050086634444771328",
+              "start": 10,
+              "url": "https://t.co/Dw2Rh5ypeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050086672109617299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝大家身体健康ww https://t.co/Dw2Rh5ypeo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they。不贩卖任何东西。这里是三号机，互关寻回中",
+        "id": "2050073911635894272",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 24,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2051220413821382765",
+    "created_at": "2026-05-04T08:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T09:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051220413821382765"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051220413821382765",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很悲伤的一点是我有时能在推特互动圈中找到已经死去的互关的头像。他们虽然已经离开了，但他们在互联网的影响力还没有消失"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2051220413821382765",
+        "created_at": "2026-05-04T08:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T09:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051220413821382765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051220413821382765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很悲伤的一点是我有时能在推特互动圈中找到已经死去的互关的头像。他们虽然已经离开了，但他们在互联网的影响力还没有消失"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n不吸毒，不贩卖任何东西。\n\n这里是三号机，互关寻回中",
+        "id": "2050073911635894272",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 288,
+          "like_count": 708,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 269
+        },
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

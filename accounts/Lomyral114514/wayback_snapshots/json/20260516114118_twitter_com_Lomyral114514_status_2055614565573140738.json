@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2055510307699614166",
+    "created_at": "2026-05-16T11:41:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:41:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055614565573140738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1889313848668090368",
+          "start": 0,
+          "username": "Yyyyy_pog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055614565573140738",
+    "in_reply_to_user_id": "1889313848668090368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055510307699614166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yyyyy_pog 这人不是泪滴滴滴滴转世么，，，他甚至都没换tg号，单纯换了个推特账号然后开了个新tg群组"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055510287046864896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIajtyuW8AART2s.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055510287067869184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIajtyzXcAAXRMt.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2055510307699614166",
+        "created_at": "2026-05-16T11:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055614565573140738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1889313848668090368",
+              "start": 0,
+              "username": "Yyyyy_pog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055614565573140738",
+        "in_reply_to_user_id": "1889313848668090368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055510307699614166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yyyyy_pog 这人不是泪滴滴滴滴转世么，，，他甚至都没换tg号，单纯换了个推特账号然后开了个新tg群组"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055510287046864896",
+            "3_2055510287067869184"
+          ]
+        },
+        "author_id": "1889313848668090368",
+        "conversation_id": "2055510307699614166",
+        "created_at": "2026-05-16T04:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055510307699614166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ffYkhbjpiH",
+              "end": 75,
+              "expanded_url": "https://x.com/Yyyyy_pog/status/2055510307699614166/photo/1",
+              "media_key": "3_2055510287046864896",
+              "start": 52,
+              "url": "https://t.co/ffYkhbjpiH"
+            },
+            {
+              "display_url": "pic.x.com/ffYkhbjpiH",
+              "end": 75,
+              "expanded_url": "https://x.com/Yyyyy_pog/status/2055510307699614166/photo/1",
+              "media_key": "3_2055510287067869184",
+              "start": 52,
+              "url": "https://t.co/ffYkhbjpiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055510307699614166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这人到底是不是骗子啊号没了又活了然后我钱早就付了好久没消息又让我再交20补发\n怎么看都像骗子的套路啊。 https://t.co/ffYkhbjpiH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 472,
+          "like_count": 3087,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 959
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T14:01:58.000Z",
+        "description": "可以叫我y｜激进性别解构主义 ｜多意识体｜ 彩虹系统｜号主是目前的主导y总 ｜我o我割｜我有精神病｜enby｜自家狗兼恋人@xshxXXXXXXX ｜可爱小狗@DOGYeah3376 ｜妹妹@suikachanqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 61,
+                "username": "xshxXXXXXXX"
+              },
+              {
+                "end": 91,
+                "start": 79,
+                "username": "DOGYeah3376"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "suikachanqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "technoblade.com",
+                "end": 23,
+                "expanded_url": "http://technoblade.com",
+                "start": 0,
+                "url": "https://t.co/PIGgwkET2H"
+              }
+            ]
+          }
+        },
+        "id": "1889313848668090368",
+        "location": "₍^˶ ╸𖥦  ╸˵^₎⟆ ",
+        "name": "Yyyyy🎗️",
+        "pinned_tweet_id": "2021905014189699518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040964718878433280/anUmYhbX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 220,
+          "like_count": 41618,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 3661
+        },
+        "url": "https://t.co/PIGgwkET2H",
+        "username": "Yyyyy_pog",
+        "verified": false
+      }
+    ]
+  }
+}

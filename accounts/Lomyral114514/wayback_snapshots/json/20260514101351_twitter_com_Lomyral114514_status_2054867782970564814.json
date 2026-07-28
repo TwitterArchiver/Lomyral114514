@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2054867782970564814",
+    "created_at": "2026-05-14T10:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T11:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054867782970564814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 151,
+          "id": "2053475823538372608",
+          "start": 137,
+          "username": "YaZangxueNo_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/YaZangxueNo_2/…",
+          "end": 179,
+          "expanded_url": "https://twitter.com/YaZangxueNo_2/status/2054717292794286290",
+          "start": 156,
+          "url": "https://t.co/0J0ordqNrQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054867782970564814",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054717292794286290",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "应鸦葬雪老师的要求帮忙转发……\n这边他给我看了他的营业执照、进出口资质、销售合同以及由厂商提供的3-Me-PCPy的MSDS报告，可以确定给他供货的上游为国内合法合规的化工厂。\n因为涉及他的个人隐私信息与公司信息，所以我无权传播相关资料，对此仍抱有疑虑的推u们可以去私聊他\n@YaZangxueNo_2\n求证😋 https://t.co/0J0ordqNrQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2054867782970564814",
+        "created_at": "2026-05-14T10:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054867782970564814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 151,
+              "id": "2053475823538372608",
+              "start": 137,
+              "username": "YaZangxueNo_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/YaZangxueNo_2/…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/YaZangxueNo_2/status/2054717292794286290",
+              "start": 156,
+              "url": "https://t.co/0J0ordqNrQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054867782970564814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054717292794286290",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "应鸦葬雪老师的要求帮忙转发……\n这边他给我看了他的营业执照、进出口资质、销售合同以及由厂商提供的3-Me-PCPy的MSDS报告，可以确定给他供货的上游为国内合法合规的化工厂。\n因为涉及他的个人隐私信息与公司信息，所以我无权传播相关资料，对此仍抱有疑虑的推u们可以去私聊他\n@YaZangxueNo_2\n求证😋 https://t.co/0J0ordqNrQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053475823538372608",
+        "conversation_id": "2054717292794286290",
+        "created_at": "2026-05-14T00:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054717292794286290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AgNo3_xq0719/s…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/AgNo3_xq0719/status/2054420349325094979",
+              "start": 146,
+              "url": "https://t.co/eRESPiJV6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054717292794286290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2185,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054420349325094979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于买RC被晶，我倾向于怀疑是快递公司看到粉末状化工物品 初筛常见毒品未发现向黑皮报告 黑皮顺藤摸瓜抓客户端带去做滥用物质六项没抓到 不了了之，并且不收手机说明不是刑事嫌疑，总体来说，被报警的概率非常小每年只有百分之0.004的快递被报警，但是每天肯定有不计其数的疑似毒品的过机，就看运气了 https://t.co/eRESPiJV6c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KM",
+              "full_name": "Comoros",
+              "geo": {
+                "coordinates": [
+                  44.44553,
+                  -12.23333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 443,
+          "like_count": 2503,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 796
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T14:03:03.000Z",
+        "description": "鸦葬雪初代机陨落，互fo寻回中，看见的宝宝可以帮忙转帖呀\ntg:@Peckylarding 私信我前请备注推特id",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "Peckylarding"
+              }
+            ]
+          }
+        },
+        "id": "2053475823538372608",
+        "location": "下北沢",
+        "name": "鸦葬雪#二号机",
+        "pinned_tweet_id": "2054258258823803068",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054199840998031360/GktbH71W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 59,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "YaZangxueNo_2",
+        "verified": false
+      }
+    ]
+  }
+}

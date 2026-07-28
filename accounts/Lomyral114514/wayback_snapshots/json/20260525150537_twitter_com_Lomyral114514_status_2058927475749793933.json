@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2058811878361772234",
+    "created_at": "2026-05-25T15:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T16:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058927475749793933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1605538501705043968",
+          "start": 0,
+          "username": "yangyan_huntun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058927475749793933",
+    "in_reply_to_user_id": "1605538501705043968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058871197266526380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yangyan_huntun 兑🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2058811878361772234",
+        "created_at": "2026-05-25T15:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058927475749793933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1605538501705043968",
+              "start": 0,
+              "username": "yangyan_huntun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058927475749793933",
+        "in_reply_to_user_id": "1605538501705043968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058871197266526380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yangyan_huntun 兑🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605538501705043968",
+        "conversation_id": "2058811878361772234",
+        "created_at": "2026-05-25T11:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T12:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058871197266526380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058871197266526380",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058811878361772234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 死性不改的喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KM",
+              "full_name": "Comoros",
+              "geo": {
+                "coordinates": [
+                  44.44553,
+                  -12.23333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 523,
+          "like_count": 4189,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1289
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T12:19:56.000Z",
+        "description": "INTP | 焦虑抑郁已确诊 | 喜扩列  | 06/185 |  bi男  |  可闲聊➕q，私聊找我要号，内容任意 | 细胞神曲 重返未来1999 起点精神病院 | oder | 术力口\n| 可以互fo私信我 | 我真的挺喜欢聊天的 | 什么都可以 |         | 接推广 |\n下面是匿名提问，随便问捏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yangyan_huntun",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yangyan_huntun",
+                "start": 0,
+                "url": "https://t.co/TOedcgnzZn"
+              }
+            ]
+          }
+        },
+        "id": "1605538501705043968",
+        "location": "重塑之手",
+        "name": "羊🐏言",
+        "pinned_tweet_id": "1804899894827884739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051899326495137792/yEFNeX0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 429,
+          "like_count": 4656,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/TOedcgnzZn",
+        "username": "yangyan_huntun",
+        "verified": true
+      }
+    ]
+  }
+}

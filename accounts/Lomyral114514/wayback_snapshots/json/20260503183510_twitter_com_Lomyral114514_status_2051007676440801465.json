@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2051000019642106276",
+    "created_at": "2026-05-03T18:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T19:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051007676440801465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051007676440801465",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051000019642106276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 这里的吗啡是等效换算剂量还是确实摄入了30mg吗啡？吗啡代谢主要走ugt，极少部分走p450，从代谢角度来看这俩是不打架的，但是不影响它们协同作用显著提高呼吸抑制风险，，，另外dxm太多了，这个剂量联用基本不可能体验到阿片欣快，除非dxm耐受高到离谱否则没必要这么吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1236,
+        "media_key": "3_2051000015812722691",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHadpdDWgAMETq1.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1235,
+        "media_key": "3_2051000016680927232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHadpgSWQAAiK2i.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2051000019642106276",
+        "created_at": "2026-05-03T18:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051007676440801465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051007676440801465",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051000019642106276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 这里的吗啡是等效换算剂量还是确实摄入了30mg吗啡？吗啡代谢主要走ugt，极少部分走p450，从代谢角度来看这俩是不打架的，但是不影响它们协同作用显著提高呼吸抑制风险，，，另外dxm太多了，这个剂量联用基本不可能体验到阿片欣快，除非dxm耐受高到离谱否则没必要这么吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051000015812722691",
+            "3_2051000016680927232"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "conversation_id": "2051000019642106276",
+        "created_at": "2026-05-03T18:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T19:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051000019642106276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S7495khl7j",
+              "end": 178,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2051000019642106276/photo/1",
+              "media_key": "3_2051000015812722691",
+              "start": 155,
+              "url": "https://t.co/S7495khl7j"
+            },
+            {
+              "display_url": "pic.x.com/S7495khl7j",
+              "end": 178,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2051000019642106276/photo/1",
+              "media_key": "3_2051000016680927232",
+              "start": 155,
+              "url": "https://t.co/S7495khl7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051000019642106276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 119,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1 这个问对人了，我的建议是：吃pea之前，提前30-45min吃司来吉兰，提前15-25min吃硝苯地平。注意如果最近吃了高酪胺的食品就不要吃司来吉兰\n\np2 我不建议这两个联用，我感觉风险大很大原因是因为cyp3a4酶压力太大了，毕竟这两个都是要这个酶代谢，我之前西柚汁+羟考酮+dxm+thc差点出事 https://t.co/S7495khl7j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。不贩卖任何东西。这里是三号机，互关寻回中",
+        "id": "2050073911635894272",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 276,
+          "like_count": 573,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 230
+        },
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/全部回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "虚空",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2047630049654796665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1848,
+          "following_count": 1418,
+          "like_count": 4038,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 2000
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

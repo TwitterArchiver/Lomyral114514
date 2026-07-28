@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2050918328567464350",
+    "created_at": "2026-05-03T13:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T14:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050924955689517174"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050924955689517174",
+    "in_reply_to_user_id": "2050073911635894272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050918328567464350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "21:06\n上效还是蛮快的。能体验到微弱欣快感与偏弱的解离感。和dxm不同，个人认为此时的欣快感更倾向于兴奋剂类带来的euphoria。剧烈打游戏中，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2050918328567464350",
+        "created_at": "2026-05-03T13:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T14:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050924955689517174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050924955689517174",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050918328567464350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "21:06\n上效还是蛮快的。能体验到微弱欣快感与偏弱的解离感。和dxm不同，个人认为此时的欣快感更倾向于兴奋剂类带来的euphoria。剧烈打游戏中，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2050918328567464350",
+        "created_at": "2026-05-03T12:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T13:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050918328567464350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 50,
+              "id": "2044073101961412609",
+              "start": 35,
+              "username": "crow_kill_snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050918328567464350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "20:39\n1t雪尘(25mg 3-MeO-PCPy) \n\n特别致谢：@crow_kill_snow\n\n「本帖及后续回复内容均属虚拟环境下进行的模拟实验，仅供研究参考，不建议任何人在现实中进行模仿。任何物质使用请咨询医师，支持科学减害」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。不贩卖任何东西。这里是三号机，互关寻回中",
+        "id": "2050073911635894272",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 266,
+          "like_count": 538,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 209
+        },
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

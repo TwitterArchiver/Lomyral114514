@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2050748306306093108",
+    "created_at": "2026-05-03T07:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T08:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050834035157684640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1681348512179695617",
+          "start": 0,
+          "username": "jujubooxd162781"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050834035157684640",
+    "in_reply_to_user_id": "1681348512179695617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050826283622482212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jujubooxd162781 我也是，，一直看着你，，，👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2050748306306093108",
+        "created_at": "2026-05-03T07:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T08:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050834035157684640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1681348512179695617",
+              "start": 0,
+              "username": "jujubooxd162781"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050834035157684640",
+        "in_reply_to_user_id": "1681348512179695617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050826283622482212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jujubooxd162781 我也是，，一直看着你，，，👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681348512179695617",
+        "conversation_id": "2050748306306093108",
+        "created_at": "2026-05-03T06:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050826283622482212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050826283622482212",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050748306306093108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 我会偷偷看着你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。不贩卖任何东西。这里是三号机，互关寻回中",
+        "id": "2050073911635894272",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 247,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 158
+        },
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-18T17:01:44.000Z",
+        "description": "叫我居居就好。研二｜ADHD｜强迫抑郁焦虑｜INFP",
+        "id": "1681348512179695617",
+        "name": "j u ju bo ox d",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045631644632244224/tbhVQtyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 625,
+          "like_count": 2251,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 224
+        },
+        "username": "jujubooxd162781",
+        "verified": false
+      }
+    ]
+  }
+}

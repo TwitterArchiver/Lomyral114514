@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2050877016623452333",
+    "created_at": "2026-05-04T07:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T08:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051200454579917173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1686238726933172224",
+          "start": 0,
+          "username": "Equation1778646"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051200454579917173",
+    "in_reply_to_user_id": "1686238726933172224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050879880745951399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Equation1778646 装痛开512就顶天了吧，不一定能开出麻醉级的阿片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2050877016623452333",
+        "created_at": "2026-05-04T07:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T08:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051200454579917173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1686238726933172224",
+              "start": 0,
+              "username": "Equation1778646"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051200454579917173",
+        "in_reply_to_user_id": "1686238726933172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050879880745951399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Equation1778646 装痛开512就顶天了吧，不一定能开出麻醉级的阿片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686238726933172224",
+        "conversation_id": "2050877016623452333",
+        "created_at": "2026-05-03T10:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T11:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050879880745951399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2050073911635894272",
+              "start": 0,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050879880745951399",
+        "in_reply_to_user_id": "2050073911635894272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050878878839939526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral114514 能假装自己疼吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n不吸毒，不贩卖任何东西。\n\n这里是三号机，互关寻回中",
+        "id": "2050073911635894272",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 288,
+          "like_count": 699,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 265
+        },
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T04:53:44.000Z",
+        "description": "这里是澜默，08年生一般furry高中生，坐标中国\n是一只MtX小猫🏳️‍⚧️，喜欢编程，月计和工厂自动化类游戏，梦想是可以拥有属于自己的一颗星星\n腾阳重度依赖\n转发，点赞及推文可能含有nsfw内容\n汉语🇨🇳 👍🏻 English 👍🏻\n推止于推",
+        "id": "1686238726933172224",
+        "location": "彼岸",
+        "name": "澜默RanMore",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048494695677054976/soBQnqiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 172,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 104
+        },
+        "username": "Equation1778646",
+        "verified": false
+      }
+    ]
+  }
+}

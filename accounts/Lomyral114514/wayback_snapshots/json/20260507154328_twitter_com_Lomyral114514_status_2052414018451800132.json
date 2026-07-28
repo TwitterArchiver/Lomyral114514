@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2052414018451800132",
+    "created_at": "2026-05-07T15:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T16:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052414018451800132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2052312493167656960",
+          "start": 3,
+          "username": "Constantin82816"
+        },
+        {
+          "end": 46,
+          "id": "1903459467230072832",
+          "start": 36,
+          "username": "LaptiReed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052414018451800132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052413549553844516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Constantin82816: 大家晚上好\n超级李李李文亚教授@LaptiReed于今日下午遇晶，设备被扣留，账号生死不明，友人初步排查了危险，但仍有可能再此处于警方控制当中\n请勿轻信其账号发布的各种言论，如有关系者请尽快切割喵\n😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2052414018451800132",
+        "created_at": "2026-05-07T15:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052414018451800132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2052312493167656960",
+              "start": 3,
+              "username": "Constantin82816"
+            },
+            {
+              "end": 46,
+              "id": "1903459467230072832",
+              "start": 36,
+              "username": "LaptiReed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052414018451800132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052413549553844516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Constantin82816: 大家晚上好\n超级李李李文亚教授@LaptiReed于今日下午遇晶，设备被扣留，账号生死不明，友人初步排查了危险，但仍有可能再此处于警方控制当中\n请勿轻信其账号发布的各种言论，如有关系者请尽快切割喵\n😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052312493167656960",
+        "conversation_id": "2052413549553844516",
+        "created_at": "2026-05-07T15:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T16:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052413549553844516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1903459467230072832",
+              "start": 15,
+              "username": "LaptiReed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052413549553844516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家晚上好\n超级李李李文亚教授@LaptiReed于今日下午遇晶，设备被扣留，账号生死不明，友人初步排查了危险，但仍有可能再此处于警方控制当中\n请勿轻信其账号发布的各种言论，如有关系者请尽快切割喵\n😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KM",
+              "full_name": "Comoros",
+              "geo": {
+                "coordinates": [
+                  44.44553,
+                  -12.23333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 357,
+          "like_count": 1476,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 448
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T09:01:08.000Z",
+        "description": "惟郢路之遼遠兮，江與夏之不可涉",
+        "id": "2052312493167656960",
+        "name": "回风Lament#大陵五",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052394391671898113/46wng0M9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 23,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Constantin82816",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T14:52:40.000Z",
+        "description": "三百年来伤国步\n八千里外吊民残",
+        "id": "1903459467230072832",
+        "location": "in terra longinqua…",
+        "name": "Historiacus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040943996101611520/YwE7uX_6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 73,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 163
+        },
+        "username": "LaptiReed",
+        "verified": false
+      }
+    ]
+  }
+}

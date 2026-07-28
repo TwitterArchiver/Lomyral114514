@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2050073911635894272",
+    "conversation_id": "2057042848974057489",
+    "created_at": "2026-05-25T08:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T09:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058824320143818898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2028780243520286720",
+          "start": 0,
+          "username": "odvspr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058824320143818898",
+    "in_reply_to_user_id": "2028780243520286720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057042848974057489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@odvspr 你怎么不穿裤子就出门"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057042834973442048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwVj0pawAAxdct.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057042834969255936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwVj0oa4AAsdS8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057042834981842944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwVj0ra8AAI0ph.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050073911635894272",
+        "conversation_id": "2057042848974057489",
+        "created_at": "2026-05-25T08:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058824320143818898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2028780243520286720",
+              "start": 0,
+              "username": "odvspr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058824320143818898",
+        "in_reply_to_user_id": "2028780243520286720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057042848974057489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@odvspr 你怎么不穿裤子就出门"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057042834973442048",
+            "3_2057042834969255936",
+            "3_2057042834981842944"
+          ]
+        },
+        "author_id": "2028780243520286720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057042848974057489",
+        "created_at": "2026-05-20T10:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057042848974057489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RxDWOgsSXX",
+              "end": 164,
+              "expanded_url": "https://x.com/odvspr/status/2057042848974057489/photo/1",
+              "media_key": "3_2057042834973442048",
+              "start": 141,
+              "url": "https://t.co/RxDWOgsSXX"
+            },
+            {
+              "display_url": "pic.x.com/RxDWOgsSXX",
+              "end": 164,
+              "expanded_url": "https://x.com/odvspr/status/2057042848974057489/photo/1",
+              "media_key": "3_2057042834969255936",
+              "start": 141,
+              "url": "https://t.co/RxDWOgsSXX"
+            },
+            {
+              "display_url": "pic.x.com/RxDWOgsSXX",
+              "end": 164,
+              "expanded_url": "https://x.com/odvspr/status/2057042848974057489/photo/1",
+              "media_key": "3_2057042834981842944",
+              "start": 141,
+              "url": "https://t.co/RxDWOgsSXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057042848974057489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听我解释，事情不是你想的那样，这不是刚买了一些🍬嘛，其实我也不知道这个是什么……，就在刚才回到家里准备洗澡的时候快递就送到了，打开一看居然是四粒白色的💊，出于好奇我就一边洗澡一边研究，由于马虎的原因，一不小心💊掉了，我弯腰去捡，没想到摔了一跤，就这样掉进屁眼儿里的，这也不能怪我啊 https://t.co/RxDWOgsSXX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KM",
+              "full_name": "Comoros",
+              "geo": {
+                "coordinates": [
+                  44.44553,
+                  -12.23333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 518,
+          "like_count": 4128,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1270
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T10:31:37.000Z",
+        "description": "od普瑞，愈美，羟考酮，笑气，飘飘糖，巴丁，飞叶子，各种爱玩，可互fo，本账号由虎门贩烟支队官方推特号，私信常开，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息",
+        "id": "2028780243520286720",
+        "name": "虎门贩烟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032449530181099520/PiFybmFX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 176,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 193
+        },
+        "username": "odvspr",
+        "verified": false
+      }
+    ]
+  }
+}
