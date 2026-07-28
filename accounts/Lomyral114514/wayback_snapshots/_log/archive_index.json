@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-28T16:52:35",
+  "last_updated": "2026-07-28T16:52:59",
   "html": {
     "https://web.archive.org/web/20260501053526if_/https://twitter.com/Lomyral114514/status/2050086672109617299": {
       "status": "done",
@@ -8402,9 +8402,9 @@
       "referenced_by": [
         "20260515130651_twitter_com_Lomyral114514_status_2055273707250373079.json"
       ],
-      "last_updated": "2026-07-28T16:17:26",
+      "last_updated": "2026-07-28T16:52:54",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260515130651/https://video.twimg.com/amplify_video/2055253126366863360/vid/avc1/720x1280/_DrN6DeHFrj-QZkQ.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2054313652384333824/pu/vid/avc1/720x1280/qYet5wWFKBxcPBHX.mp4?tag=12": {
       "status": "done",
@@ -8425,9 +8425,9 @@
       "referenced_by": [
         "20260523094159_twitter_com_Lomyral114514_status_2058121251517038763.json"
       ],
-      "last_updated": "2026-07-28T16:17:26",
+      "last_updated": "2026-07-28T16:52:59",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260523094159/https://video.twimg.com/tweet_video/HI_kgqjagAAlWv7.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2058439195472154624/pu/vid/avc1/720x1280/rAN-yJTnkvY_Bpvz.mp4?tag=12": {
       "status": "done",
